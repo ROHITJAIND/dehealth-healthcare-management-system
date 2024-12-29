@@ -1,6 +1,6 @@
 # dehealth-healthcare-management-system
 
-## Small Description
+## Description
 Decentralized Image Upload and Sharing facilitates secure and decentralized image storage and sharing on the blockchain. Utilizing Solidity for smart contract functionality and React for the front-end interface, this project enables users to upload images to IPFS and manage access through blockchain-powered controls.
 
 ---
